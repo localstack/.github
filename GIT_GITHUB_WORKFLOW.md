@@ -1,6 +1,6 @@
 # Git & GitHub workflow
 
-This document is the best practice guide that contains the rules to workflow while contributing to LocalStack projects using Git & GitHub.
+This document is the best practice guide that contains the rules to follow while contributing to LocalStack projects using Git & GitHub.
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ We also recommend you to authenticate [Git with GitHub using SSH](https://docs.g
 
 In your browser, visit: https://github.com/localstack. Find the project that you would like to contribute to and open the appropriate link. In the upper left corner, you will find an option to fork the project. Please click on it to create a fork/copy of the repository on your profile.
 
-- On your terminal, clone the repository by running the command where  `your-username`  represents your GitHub username while the  `project-slug`  signifies the name of the project you are cloning.
+- In your terminal, clone the repository by running the command where  `your-username`  represents your GitHub username while the  `project-slug`  signifies the name of the project you are cloning.
 
 	```sh
 	git clone https://github.com/<your-username>/<project-slug>/

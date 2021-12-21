@@ -41,7 +41,7 @@ We would recommend you to go through the **Issues** of the specific project that
 Exploring the issues and pull requests, will give you an idea of how the contribution flow works. Upon finding something to work on, you can either request for the issue to be assigned to you (if someone else has created the Issue) or you can make your own. To ensure that the issue is received positively by the maintainers make sure of the following:
 
 - If you are filing a Bug report, make sure that the report includes all the information that the maintainer needs to reproduce the issue.
-- If you are filling a feature request, make sure you pitch in your idea well and it should be constructive.
+- If you are filing a feature request, make sure you pitch in your idea well and it should be constructive.
 - Before opening a new issue, make sure a similar one has not already been created or is being worked on by someone else.
 
 ### Landing your pull request
