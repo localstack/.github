@@ -18,7 +18,7 @@ LocalStack governs its participants according to the Contributor Covenant [Code 
 
 ### Setup the development environment
 
-To contribute code contributions, setting up a development environment is required. Review the [LocalStack developer guide](https://docs.localstack.cloud/developer-guide/) to understand how you can setup the environment and make the desirable changes. It is also recommended to look at our [public roadmap](https://github.com/localstack/localstack/blob/master/doc/roadmap/README.md) and [open issues](https://github.com/localstack/localstack/issues) for better context around contributions we are looking for.
+To contribute code contributions, setting up a development environment is required. Review the [LocalStack developer guide](https://docs.localstack.cloud/developer-guide/) to understand how you can setup the environment and make the desirable changes. It is also recommended to look at our [open issues](https://github.com/localstack/localstack/issues) for better context around contributions we are looking for.
 
 ### Licensing
 
@@ -40,9 +40,9 @@ We would recommend you to go through the **Issues** of the specific project that
 
 Exploring the issues and pull requests, will give you an idea of how the contribution flow works. Upon finding something to work on, you can either request for the issue to be assigned to you (if someone else has created the Issue) or you can make your own. To ensure that the issue is received positively by the maintainers make sure of the following:
 
-- If you are filling a Bug report, make sure that the template is properly filled up with all the information that the maintainer needs.
+- If you are filing a Bug report, make sure that the report includes all the information that the maintainer needs to reproduce the issue.
 - If you are filling a feature request, make sure you pitch in your idea well and it should be constructive.
-- Before making an issue, make sure it has not been already created or is being worked on by someone else.
+- Before opening a new issue, make sure a similar one has not already been created or is being worked on by someone else.
 
 ### Landing your pull request
 
@@ -50,11 +50,12 @@ To make sure you land a great contribution, we would request you to follow the s
 
 We would recommend:
 
--   Every pull request should have the corresponding issue linked to it.
--   Every pull request should pass the automated CI checks.
+-   Every Pull Request should have the corresponding issue linked to it.
+-   Every Pull Request should pass the automated CI checks.
 -   Every Pull Request should be as atomic as possible. 
+-   Every Pull Request should include a test verifying the new/fixed behavior.
 
-You can keep your pull request as a draft if you are still working on it. Upon completion, you can mark the pull request is ready to review for further comments and feedback.
+Atomic commits correspond to the smallest, most meaningful change you can make to the code. You can keep your pull request as a draft if you are still working on it. Upon completion, you can mark the pull request is ready to review for further comments and feedback.
 
 ### Reviewing pull requests
 
