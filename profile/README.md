@@ -20,7 +20,7 @@ Wonder how easy it is to get up and running with LocalStack? Check out our [Loca
 - [LocalStack in CI](https://docs.localstack.cloud/ci/)
 - [Local AWS services](https://docs.localstack.cloud/aws/feature-coverage/)
 - [LocalStack tools](https://docs.localstack.cloud/tools/)
-- [Understading LocalStack](https://docs.localstack.cloud/localstack/)
+- [Understanding LocalStack](https://docs.localstack.cloud/localstack/)
 
 Our mission is to give developers back control over their environments and free them from wasting time with inefficient dev & test loops in the cloud, so they can instead focus on developing great products to solve the world's problems.
 
