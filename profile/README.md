@@ -17,7 +17,7 @@ We are trusted by 10,000s of developers worldwide. Check out our [GitHub reposit
 Wonder how easy it is to get up and running with LocalStack? Check out our [LocalStack documentation](https://docs.localstack.cloud/get-started/) to get an overview of LocalStack and how to get started. To discover more and get acquainted with our integrations, tools and local AWS services, check out:
 
 - [LocalStack integrations](https://docs.localstack.cloud/integrations/)
-- [LocalStack in CI](https://docs.localstack.cloud/ci/)
+- [LocalStack in CI](https://docs.localstack.cloud/user-guide/ci/)
 - [Local AWS services](https://docs.localstack.cloud/aws/feature-coverage/)
 - [LocalStack tools](https://docs.localstack.cloud/tools/)
 - [Understanding LocalStack](https://docs.localstack.cloud/localstack/)
