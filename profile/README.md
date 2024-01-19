@@ -30,7 +30,7 @@ You can use various [LocalStack integrations](https://docs.localstack.cloud/inte
 
 ## Getting started 🚀
 
-Wonder how easy it is to get up and running with LocalStack? Here are some great first spot to check out, so as to get acquainted with everything you need to know about LocalStack:
+Wonder how easy it is to get up and running with LocalStack? Here are some great first spots to check out, so as to get acquainted with everything you need to know about LocalStack:
 
 -   [Quickstart](https://docs.localstack.cloud/getting-started/quickstart): Launch a basic serverless application with LocalStack to get a hands-on introduction 🚀
 -   [Tutorials](https://docs.localstack.cloud/tutorials): Master LocalStack through detailed tutorials covering AWS services, integrations, and tools 📗
