@@ -12,7 +12,7 @@
 
 ## What is LocalStack? 🤔
 
-[LocalStack](https://localstack.cloud) is a cloud service emulator that runs in a single container on your laptop or in your CI environment. With LocalStack, you can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider! Whether you are testing complex CDK applications or Terraform configurations, or just beginning to learn about AWS services, LocalStack helps speed up and simplify your testing and development workflow.
+[LocalStack](https://localstack.cloud) is a cloud development platform that facilitates building/testing of cloud and serverless applications on your local machine. At its core, it features a service emulator that runs in a single container on your laptop or in your CI environment. With LocalStack, you can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider! Whether you are testing complex CDK applications or Terraform configurations, or just beginning to learn about AWS services, LocalStack helps speed up and simplify your testing and development workflow.
 
 We are trusted by 10,000s of developers worldwide. Check out our Open-Source (OSS) [GitHub repository](https://github.com/localstack/localstack), or search on [Twitter](https://twitter.com/search?q=localstack)/[Google](https://www.google.com/search?q=LocalStack+AWS) to find out what people have to say about LocalStack. It's the modern way of developing cloud applications - we hope you're part of it!
 
