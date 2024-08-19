@@ -55,4 +55,4 @@ You can also financially support the project by contributing on [LocalStack's Op
 
 ## Join our team! 🤝
 
-We are looking for top-notch contributors to LocalStack. If you are interested in helping us become the world’s leading platform to support efficient dev & test loops for cloud applications, check out our [current open positions](https://localstack.cloud/jobs/). We can't wait to meet you!
+We are looking for top-notch contributors to LocalStack. If you are interested in helping us become the world’s leading platform to support efficient dev & test loops for cloud applications, check out our [current open positions]([https://localstack.cloud/jobs/](https://www.localstack.cloud/career-s)). We can't wait to meet you!
