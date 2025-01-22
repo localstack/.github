@@ -35,7 +35,6 @@ Wonder how easy it is to get up and running with LocalStack? Here are some great
 -   [Quickstart](https://docs.localstack.cloud/getting-started/quickstart): Launch a basic serverless application with LocalStack to get a hands-on introduction 🚀
 -   [Tutorials](https://docs.localstack.cloud/tutorials): Master LocalStack through detailed tutorials covering AWS services, integrations, and tools 📗
 -   [Sample Applications](https://docs.localstack.cloud/applications/): Discover practical applications and use cases by exploring our range of sample projects 🛠
--   [Academy](https://docs.localstack.cloud/academy/): Deepen your LocalStack knowledge with comprehensive video tutorials 📺
 
 For more information, check out our [**documentation**](https://docs.localstack.cloud/).
 
