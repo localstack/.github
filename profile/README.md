@@ -8,7 +8,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@localstack-9cf.svg)](https://twitter.com/localstack)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@localstack-darkblue.svg)](https://www.linkedin.com/company/localstack-cloud)
 [![YouTube](https://img.shields.io/badge/YouTube-@localstack-red.svg)](https://www.youtube.com/@localstack)
-[![Discuss](https://img.shields.io/badge/Discuss-@localstack-white.svg)](https://discuss.localstack.cloud)
 
 ## What is LocalStack? 🤔
 
