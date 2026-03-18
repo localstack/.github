@@ -31,8 +31,8 @@ You can use various [LocalStack for AWS integrations](https://docs.localstack.cl
 
 It's easy to get up and running with LocalStack! Here are some great first spots to check out to get acquainted with everything you need to know about LocalStack:
 
-- [LocalStack for AWS Quickstart]([Quickstart \| Docs](https://docs.localstack.cloud/aws/getting-started/quickstart/)): Launch a basic serverless application with LocalStack for AWS to get a hands-on introduction 🚀
-- [LocalStack for Snowflake Quickstart]([Quickstart \| Docs](https://docs.localstack.cloud/snowflake/getting-started/quickstart/)): Create a database, schema, and table, upload data to a stage, and load data into the table with LocalStack for Snowflake 🚀
+- [LocalStack for AWS Quickstart](https://docs.localstack.cloud/aws/getting-started/quickstart/): Launch a basic serverless application with LocalStack for AWS to get a hands-on introduction 🚀
+- [LocalStack for Snowflake Quickstart](https://docs.localstack.cloud/snowflake/getting-started/quickstart/): Create a database, schema, and table, upload data to a stage, and load data into the table with LocalStack for Snowflake 🚀
 - [Tutorials](https://docs.localstack.cloud/tutorials): Master LocalStack through detailed tutorials covering AWS services, integrations, and tools 📗
 - [Sample Applications](https://docs.localstack.cloud/applications/): Discover practical applications and use cases by exploring our range of sample projects 🛠
 
